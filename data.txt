@@ -1,0 +1,3 @@
+Name: Mapi
+Age: 29
+Favorite color: blue
